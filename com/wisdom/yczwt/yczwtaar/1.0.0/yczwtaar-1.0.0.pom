@@ -22,19 +22,19 @@
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
-      <version>27.0.0</version>
+      <version>27.1.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>design</artifactId>
-      <version>27.0.0</version>
+      <version>27.1.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>recyclerview-v7</artifactId>
-      <version>27.0.0</version>
+      <version>27.1.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -46,13 +46,13 @@
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>support-v4</artifactId>
-      <version>27.0.0</version>
+      <version>27.1.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>percent</artifactId>
-      <version>27.0.0</version>
+      <version>27.1.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
