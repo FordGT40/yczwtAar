@@ -80,30 +80,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.amap.api</groupId>
-      <artifactId>3dmap</artifactId>
-      <version>5.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.amap.api</groupId>
-      <artifactId>location</artifactId>
-      <version>4.2.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.amap.api</groupId>
-      <artifactId>search</artifactId>
-      <version>6.1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.amap.api</groupId>
-      <artifactId>map2d</artifactId>
-      <version>5.2.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>org.xutils</groupId>
       <artifactId>xutils</artifactId>
       <version>3.5.0</version>
