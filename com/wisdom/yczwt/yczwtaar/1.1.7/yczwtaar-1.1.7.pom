@@ -8,6 +8,12 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>multidex</artifactId>
+      <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>q.rorbin</groupId>
       <artifactId>badgeview</artifactId>
       <version>1.1.2</version>
@@ -144,12 +150,6 @@
       <groupId>com.squareup.retrofit2</groupId>
       <artifactId>converter-gson</artifactId>
       <version>2.1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>multidex</artifactId>
-      <version>1.0.2</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
